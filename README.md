@@ -15,25 +15,25 @@ To add a WatchFace to your Mi Band 4, follow the steps below:
   English: 
   
   
-  Colorful:
+  Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_EN_v1.0_packed.bin?raw=true
   
-  Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_EN_v1.0_packed.bin
+  Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_EN_v1.0_packed.bin?raw=true
 
 
   Spanish: 
   
   
-  Colorful:
+  Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_ES_v1.0_packed.bin?raw=true
   
-  Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_ES_v1.0_packed.bin
+  Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_ES_v1.0_packed.bin?raw=true
 
 
   Portuguese: 
   
   
-  Colorful:
+  Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_BR_v1.0_packed.bin?raw=true
   
-  Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_BR_v1.0_packed.bin
+  Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_BR_v1.0_packed.bin?raw=true
 
 2. Download the MiBand4 app (PlayStore)
 3. Click on menu
