@@ -2,6 +2,8 @@
 Language: English, Spanish and Portuguese (Brazil)
 Color: Colorful and Black and White
 
+You can view the versions here: https://github.com/henriquemattosesilva/WatchFaceDitto/wiki/Versions
+
 If you want to do it in a new language, to write the weekdays I used the font Montserrat Semibold.
 
 I made this WatchFace from a template. I edited the .json file and created the custom images.
@@ -20,7 +22,7 @@ To add a WatchFace to your Mi Band 4, follow the steps below:
 
 # Download
 
-*English: 
+### English: 
   
   
   Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_EN_v1.0_packed.bin?raw=true
@@ -28,7 +30,7 @@ To add a WatchFace to your Mi Band 4, follow the steps below:
   Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_EN_v1.0_packed.bin?raw=true
 
 
-*Spanish: 
+### Spanish: 
   
   
   Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_ES_v1.0_packed.bin?raw=true
@@ -36,7 +38,7 @@ To add a WatchFace to your Mi Band 4, follow the steps below:
   Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_ES_v1.0_packed.bin?raw=true
 
 
-*Portuguese: 
+### Portuguese: 
   
   
   Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_BR_v1.0_packed.bin?raw=true
