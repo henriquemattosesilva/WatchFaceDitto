@@ -1,5 +1,6 @@
 # Versions
-English, Spanish and Portuguese (Brazil)
+Language: English, Spanish and Portuguese (Brazil)
+Color: Colorful and Black and White
 
 If you want to do it in a new language, to write the weekdays I used the font Montserrat Semibold.
 
@@ -13,9 +14,18 @@ To add a WatchFace to your Mi Band 4, follow the steps below:
 
   English: 
   
+  Colorful:
+  Black and White:
+  
   Spanish: 
+  
+  Colorful:
+  Black and White:
 
   Portuguese: 
+  
+  Colorful:
+  Black and White:
 
 2. Download the MiBand4 app (PlayStore)
 3. Click on menu
