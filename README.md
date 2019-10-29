@@ -11,8 +11,16 @@ I made this WatchFace from a template. I edited the .json file and created the c
 To add a WatchFace to your Mi Band 4, follow the steps below:
 
 1. Download the .bin file
+2. Download the MiBand4 app (PlayStore)
+3. Click on menu
+4. Add WatchFace to MiFit
+5. Choose .bin file
+6. Add WatchFace to MiFit
+7. Follow the instructions
 
-  English: 
+# Download
+
+*English: 
   
   
   Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_EN_v1.0_packed.bin?raw=true
@@ -20,7 +28,7 @@ To add a WatchFace to your Mi Band 4, follow the steps below:
   Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_EN_v1.0_packed.bin?raw=true
 
 
-  Spanish: 
+*Spanish: 
   
   
   Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_ES_v1.0_packed.bin?raw=true
@@ -28,19 +36,12 @@ To add a WatchFace to your Mi Band 4, follow the steps below:
   Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_ES_v1.0_packed.bin?raw=true
 
 
-  Portuguese: 
+*Portuguese: 
   
   
   Colorful: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_Color_BR_v1.0_packed.bin?raw=true
   
   Black and White: https://github.com/henriquemattosesilva/WatchFaceDitto/blob/master/Ditto_B%26W_BR_v1.0_packed.bin?raw=true
-
-2. Download the MiBand4 app (PlayStore)
-3. Click on menu
-4. Add WatchFace to MiFit
-5. Choose .bin file
-6. Add WatchFace to MiFit
-7. Follow the instructions
 
 
 # Details
